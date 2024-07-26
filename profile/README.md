@@ -34,9 +34,7 @@ Community Forums:
 
 Social Media:
 
-    Saavage Industries:
-&
-    Dynasty Revolution:
+    Saavage Industries: & Dynasty Revolution:
         [fb.com/dynrevolution]
 
 
