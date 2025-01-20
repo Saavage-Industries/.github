@@ -1,0 +1,64 @@
+Saavage Industries Software License Agreement
+
+This Software License Agreement ("Agreement") governs the use of software developed by Saavage Industries ("Software").
+
+1. Grant of License
+
+Saavage Industries grants you a non-exclusive, non-transferable license to use the Software for your own internal purposes. This license does not grant you any ownership rights in the Software.
+
+2. Restrictions
+
+You may not:
+
+    Redistribute the Software without obtaining prior written permission from Saavage Industries.
+    Modify the Software without obtaining prior written permission from Saavage Industries.
+    Reverse engineer, decompile, or disassemble the Software.
+    Remove or alter any copyright notices or other proprietary markings on the Software.
+    Use the Software for any illegal or unauthorized purpose.
+
+3. Copyright
+
+The Software is protected by copyright laws and international treaties. All rights not expressly granted herein are reserved by Saavage Industries.
+
+4. Disclaimer of Warranties
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL SAAVAGE INDUSTRIES BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. Attribution
+
+You must acknowledge Saavage Industries and Dynasty Revolution as the copyright holders of the Software in any documentation or materials related to the Software. You may not claim ownership or authorship of the Software.
+
+6. Termination
+
+This Agreement may be terminated immediately by Saavage Industries if you violate any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+7. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of [California, Illinois, Maryland, Texas], without regard to its conflict of laws principles.
+
+8. Entire Agreement
+
+This Agreement constitutes the entire agreement between you and Saavage Industries concerning the Software and supersedes all prior or contemporaneous communications, representations, or agreements, whether oral or written.
+
+9. Contact
+
+If you have any questions regarding this Agreement, please contact Saavage Industries at: [support@dynastyrevolution.com]
+
+By using the Software, you agree to be bound by the terms of this Agreement.
+
+Copyright © 2024 Saavage Industries and Dynasty Revolution. All rights reserved.
+
+
+**Explanation:**
+
+This license agreement clearly outlines the following:
+
+* **Grant of License:**  The user is granted a non-exclusive license for internal use only.
+* **Restrictions:** Redistribution, modification, reverse engineering, and removal of copyright notices are prohibited without permission.
+* **Copyright:** Saavage Industries and Dynasty Revolution are acknowledged as the copyright holders.
+* **Disclaimer of Warranties:** The software is provided "as is" with no warranties.
+* **Attribution:** The user must acknowledge Saavage Industries and Dynasty Revolution in any documentation related to the software.
+* **Termination:** Saavage Industries can terminate the agreement if the user violates any terms.
+* **Governing Law:**  The agreement is governed by the laws of the specified state.
+* **Entire Agreement:** This agreement supersedes all previous agreements.
+* **Contact:** Provides contact information for any questions.
