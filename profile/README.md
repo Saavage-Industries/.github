@@ -22,7 +22,7 @@ For general inquiries or support:
 
 For specific inquiries related to:
 
-    Saavage Industries & Dynasty Revolution: [support@dynastyrevolution.com]
+    Saavage Industries & Dynasty Revolution: [support@dynastyrevolution.com] or [support@saavageindustries.com]
 
 Documentation:
 
